@@ -7,3 +7,4 @@
 | [`identity-accounts-web`](./packages/identity-accounts-web)       | Accounts linked to your DID         | ![npm version](https://img.shields.io/npm/v/@datamodels/identity-accounts-web.svg)    |
 | [`identity-profile-basic`](./packages/identity-profile-basic)     | Basic profile information for a DID | ![npm version](https://img.shields.io/npm/v/@datamodels/identity-profile-basic.svg)   |
 | [`social-connections`](./packages/social-connections)     | Social connections information for a DID | ![npm version](https://img.shields.io/npm/v/@datamodels/social-connection.svg)   |
+| [`geojson-feature`](./packages/social-connections)     | Geometric features for a DID | ![npm version](https://img.shields.io/npm/v/@datamodels/social-connection.svg)   |
